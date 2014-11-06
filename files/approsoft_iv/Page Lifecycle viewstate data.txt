@@ -1,0 +1,3 @@
+**Page_PreLoad event can get post back viewstate data
+**Page_Init cannot get viewstate wheather it is postback or not 
+**Page_InitComplete gets viewstate/control initial data but not postback data
