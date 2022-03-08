@@ -1,0 +1,16 @@
+C:\Users\placo\OneDrive\Documents\GitHub\interview-files\LogicalProgramApps\lab.LogicalApps\lab.LogicalApps\ReverseWordLetter\bin\Debug\net5.0\ReverseWordLetter.exe
+C:\Users\placo\OneDrive\Documents\GitHub\interview-files\LogicalProgramApps\lab.LogicalApps\lab.LogicalApps\ReverseWordLetter\bin\Debug\net5.0\ReverseWordLetter.deps.json
+C:\Users\placo\OneDrive\Documents\GitHub\interview-files\LogicalProgramApps\lab.LogicalApps\lab.LogicalApps\ReverseWordLetter\bin\Debug\net5.0\ReverseWordLetter.runtimeconfig.json
+C:\Users\placo\OneDrive\Documents\GitHub\interview-files\LogicalProgramApps\lab.LogicalApps\lab.LogicalApps\ReverseWordLetter\bin\Debug\net5.0\ReverseWordLetter.runtimeconfig.dev.json
+C:\Users\placo\OneDrive\Documents\GitHub\interview-files\LogicalProgramApps\lab.LogicalApps\lab.LogicalApps\ReverseWordLetter\bin\Debug\net5.0\ReverseWordLetter.dll
+C:\Users\placo\OneDrive\Documents\GitHub\interview-files\LogicalProgramApps\lab.LogicalApps\lab.LogicalApps\ReverseWordLetter\bin\Debug\net5.0\ref\ReverseWordLetter.dll
+C:\Users\placo\OneDrive\Documents\GitHub\interview-files\LogicalProgramApps\lab.LogicalApps\lab.LogicalApps\ReverseWordLetter\bin\Debug\net5.0\ReverseWordLetter.pdb
+C:\Users\placo\OneDrive\Documents\GitHub\interview-files\LogicalProgramApps\lab.LogicalApps\lab.LogicalApps\ReverseWordLetter\obj\Debug\net5.0\ReverseWordLetter.csproj.AssemblyReference.cache
+C:\Users\placo\OneDrive\Documents\GitHub\interview-files\LogicalProgramApps\lab.LogicalApps\lab.LogicalApps\ReverseWordLetter\obj\Debug\net5.0\ReverseWordLetter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\placo\OneDrive\Documents\GitHub\interview-files\LogicalProgramApps\lab.LogicalApps\lab.LogicalApps\ReverseWordLetter\obj\Debug\net5.0\ReverseWordLetter.AssemblyInfoInputs.cache
+C:\Users\placo\OneDrive\Documents\GitHub\interview-files\LogicalProgramApps\lab.LogicalApps\lab.LogicalApps\ReverseWordLetter\obj\Debug\net5.0\ReverseWordLetter.AssemblyInfo.cs
+C:\Users\placo\OneDrive\Documents\GitHub\interview-files\LogicalProgramApps\lab.LogicalApps\lab.LogicalApps\ReverseWordLetter\obj\Debug\net5.0\ReverseWordLetter.csproj.CoreCompileInputs.cache
+C:\Users\placo\OneDrive\Documents\GitHub\interview-files\LogicalProgramApps\lab.LogicalApps\lab.LogicalApps\ReverseWordLetter\obj\Debug\net5.0\ReverseWordLetter.dll
+C:\Users\placo\OneDrive\Documents\GitHub\interview-files\LogicalProgramApps\lab.LogicalApps\lab.LogicalApps\ReverseWordLetter\obj\Debug\net5.0\ref\ReverseWordLetter.dll
+C:\Users\placo\OneDrive\Documents\GitHub\interview-files\LogicalProgramApps\lab.LogicalApps\lab.LogicalApps\ReverseWordLetter\obj\Debug\net5.0\ReverseWordLetter.pdb
+C:\Users\placo\OneDrive\Documents\GitHub\interview-files\LogicalProgramApps\lab.LogicalApps\lab.LogicalApps\ReverseWordLetter\obj\Debug\net5.0\ReverseWordLetter.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "FindAllSubstrings/1.0.0": {
+        "runtime": {
+          "FindAllSubstrings.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FindAllSubstrings/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
