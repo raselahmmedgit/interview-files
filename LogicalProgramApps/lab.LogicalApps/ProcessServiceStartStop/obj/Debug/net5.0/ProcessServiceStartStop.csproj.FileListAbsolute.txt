@@ -1,0 +1,16 @@
+C:\Users\placo\OneDrive\Documents\GitHub\interview-files\LogicalProgramApps\lab.LogicalApps\ProcessServiceStartStop\bin\Debug\net5.0\ProcessServiceStartStop.exe
+C:\Users\placo\OneDrive\Documents\GitHub\interview-files\LogicalProgramApps\lab.LogicalApps\ProcessServiceStartStop\bin\Debug\net5.0\ProcessServiceStartStop.deps.json
+C:\Users\placo\OneDrive\Documents\GitHub\interview-files\LogicalProgramApps\lab.LogicalApps\ProcessServiceStartStop\bin\Debug\net5.0\ProcessServiceStartStop.runtimeconfig.json
+C:\Users\placo\OneDrive\Documents\GitHub\interview-files\LogicalProgramApps\lab.LogicalApps\ProcessServiceStartStop\bin\Debug\net5.0\ProcessServiceStartStop.runtimeconfig.dev.json
+C:\Users\placo\OneDrive\Documents\GitHub\interview-files\LogicalProgramApps\lab.LogicalApps\ProcessServiceStartStop\bin\Debug\net5.0\ProcessServiceStartStop.dll
+C:\Users\placo\OneDrive\Documents\GitHub\interview-files\LogicalProgramApps\lab.LogicalApps\ProcessServiceStartStop\bin\Debug\net5.0\ref\ProcessServiceStartStop.dll
+C:\Users\placo\OneDrive\Documents\GitHub\interview-files\LogicalProgramApps\lab.LogicalApps\ProcessServiceStartStop\bin\Debug\net5.0\ProcessServiceStartStop.pdb
+C:\Users\placo\OneDrive\Documents\GitHub\interview-files\LogicalProgramApps\lab.LogicalApps\ProcessServiceStartStop\obj\Debug\net5.0\ProcessServiceStartStop.csproj.AssemblyReference.cache
+C:\Users\placo\OneDrive\Documents\GitHub\interview-files\LogicalProgramApps\lab.LogicalApps\ProcessServiceStartStop\obj\Debug\net5.0\ProcessServiceStartStop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\placo\OneDrive\Documents\GitHub\interview-files\LogicalProgramApps\lab.LogicalApps\ProcessServiceStartStop\obj\Debug\net5.0\ProcessServiceStartStop.AssemblyInfoInputs.cache
+C:\Users\placo\OneDrive\Documents\GitHub\interview-files\LogicalProgramApps\lab.LogicalApps\ProcessServiceStartStop\obj\Debug\net5.0\ProcessServiceStartStop.AssemblyInfo.cs
+C:\Users\placo\OneDrive\Documents\GitHub\interview-files\LogicalProgramApps\lab.LogicalApps\ProcessServiceStartStop\obj\Debug\net5.0\ProcessServiceStartStop.csproj.CoreCompileInputs.cache
+C:\Users\placo\OneDrive\Documents\GitHub\interview-files\LogicalProgramApps\lab.LogicalApps\ProcessServiceStartStop\obj\Debug\net5.0\ProcessServiceStartStop.dll
+C:\Users\placo\OneDrive\Documents\GitHub\interview-files\LogicalProgramApps\lab.LogicalApps\ProcessServiceStartStop\obj\Debug\net5.0\ref\ProcessServiceStartStop.dll
+C:\Users\placo\OneDrive\Documents\GitHub\interview-files\LogicalProgramApps\lab.LogicalApps\ProcessServiceStartStop\obj\Debug\net5.0\ProcessServiceStartStop.pdb
+C:\Users\placo\OneDrive\Documents\GitHub\interview-files\LogicalProgramApps\lab.LogicalApps\ProcessServiceStartStop\obj\Debug\net5.0\ProcessServiceStartStop.genruntimeconfig.cache
