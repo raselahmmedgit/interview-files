@@ -1,0 +1,16 @@
+C:\Users\placo\OneDrive\Documents\GitHub\interview-files\LogicalProgramApps\lab.LogicalApps\TreeViewSample\bin\Debug\net5.0\TreeViewSample.exe
+C:\Users\placo\OneDrive\Documents\GitHub\interview-files\LogicalProgramApps\lab.LogicalApps\TreeViewSample\bin\Debug\net5.0\TreeViewSample.deps.json
+C:\Users\placo\OneDrive\Documents\GitHub\interview-files\LogicalProgramApps\lab.LogicalApps\TreeViewSample\bin\Debug\net5.0\TreeViewSample.runtimeconfig.json
+C:\Users\placo\OneDrive\Documents\GitHub\interview-files\LogicalProgramApps\lab.LogicalApps\TreeViewSample\bin\Debug\net5.0\TreeViewSample.runtimeconfig.dev.json
+C:\Users\placo\OneDrive\Documents\GitHub\interview-files\LogicalProgramApps\lab.LogicalApps\TreeViewSample\bin\Debug\net5.0\TreeViewSample.dll
+C:\Users\placo\OneDrive\Documents\GitHub\interview-files\LogicalProgramApps\lab.LogicalApps\TreeViewSample\bin\Debug\net5.0\ref\TreeViewSample.dll
+C:\Users\placo\OneDrive\Documents\GitHub\interview-files\LogicalProgramApps\lab.LogicalApps\TreeViewSample\bin\Debug\net5.0\TreeViewSample.pdb
+C:\Users\placo\OneDrive\Documents\GitHub\interview-files\LogicalProgramApps\lab.LogicalApps\TreeViewSample\obj\Debug\net5.0\TreeViewSample.csproj.AssemblyReference.cache
+C:\Users\placo\OneDrive\Documents\GitHub\interview-files\LogicalProgramApps\lab.LogicalApps\TreeViewSample\obj\Debug\net5.0\TreeViewSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\placo\OneDrive\Documents\GitHub\interview-files\LogicalProgramApps\lab.LogicalApps\TreeViewSample\obj\Debug\net5.0\TreeViewSample.AssemblyInfoInputs.cache
+C:\Users\placo\OneDrive\Documents\GitHub\interview-files\LogicalProgramApps\lab.LogicalApps\TreeViewSample\obj\Debug\net5.0\TreeViewSample.AssemblyInfo.cs
+C:\Users\placo\OneDrive\Documents\GitHub\interview-files\LogicalProgramApps\lab.LogicalApps\TreeViewSample\obj\Debug\net5.0\TreeViewSample.csproj.CoreCompileInputs.cache
+C:\Users\placo\OneDrive\Documents\GitHub\interview-files\LogicalProgramApps\lab.LogicalApps\TreeViewSample\obj\Debug\net5.0\TreeViewSample.dll
+C:\Users\placo\OneDrive\Documents\GitHub\interview-files\LogicalProgramApps\lab.LogicalApps\TreeViewSample\obj\Debug\net5.0\ref\TreeViewSample.dll
+C:\Users\placo\OneDrive\Documents\GitHub\interview-files\LogicalProgramApps\lab.LogicalApps\TreeViewSample\obj\Debug\net5.0\TreeViewSample.pdb
+C:\Users\placo\OneDrive\Documents\GitHub\interview-files\LogicalProgramApps\lab.LogicalApps\TreeViewSample\obj\Debug\net5.0\TreeViewSample.genruntimeconfig.cache
