@@ -59,7 +59,49 @@ namespace TreeViewSample
                 }
             }
 
+            Console.WriteLine("");
+
             Console.ReadLine();
+        }
+
+        private void PopulateTreeView(List<EntityModel>  entityModelList)
+        {
+            List<TreeViewNode> treeViewNodeList = new List<TreeViewNode>();
+
+            //Loop and add the Parent Nodes.
+            foreach (var entityModel in entityModelList)
+            {
+                treeViewNodeList.Add(new TreeViewNode
+                {
+                    Id = entityModel.Id,
+                    Name = entityModel.Name,
+                    ParentId = entityModel.ParentId
+                });
+            }
+
+            //Loop and add the Child Nodes.
+            foreach (var subEntityModel in entityModelList)//Here I took advantage of the design feature of my DB
+            {
+                if (subEntityModel.ParentId == 0)
+                {
+                    treeViewNodeList.Add(new TreeViewNode
+                    {
+                        Id = subEntityModel.Id,
+                        Name = subEntityModel.Name,
+                        ParentId = subEntityModel.ParentId
+                    });
+                }
+                else
+                {
+                    treeViewNodeList.Add(new TreeViewNode
+                    {
+                        id = subType.Id.ToString(),
+                        parent = subType.ParentId.ToString(),
+                        text = subType.Num + " " + subType.Title
+                    });
+                }
+                    
+            }
         }
     }
 
@@ -76,5 +118,12 @@ namespace TreeViewSample
         public string Name { get; set; }
         public int ParentId { get; set; }
         public Node Child { get; set; }
+    }
+
+    class TreeViewNode
+    {
+        public int Id { get; set; }
+        public string Name { get; set; }
+        public int ParentId { get; set; }
     }
 }

@@ -1,26 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\placo\\OneDrive\\Documents\\GitHub\\interview-files\\LogicalProgramApps\\lab.LogicalApps\\Palindrome\\Palindrome.csproj": {}
+    "C:\\Users\\rasel.ahmmed\\Documents\\GitHub\\interview-files\\LogicalProgramApps\\lab.LogicalApps\\Palindrome\\Palindrome.csproj": {}
   },
   "projects": {
-    "C:\\Users\\placo\\OneDrive\\Documents\\GitHub\\interview-files\\LogicalProgramApps\\lab.LogicalApps\\Palindrome\\Palindrome.csproj": {
+    "C:\\Users\\rasel.ahmmed\\Documents\\GitHub\\interview-files\\LogicalProgramApps\\lab.LogicalApps\\Palindrome\\Palindrome.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\placo\\OneDrive\\Documents\\GitHub\\interview-files\\LogicalProgramApps\\lab.LogicalApps\\Palindrome\\Palindrome.csproj",
+        "projectUniqueName": "C:\\Users\\rasel.ahmmed\\Documents\\GitHub\\interview-files\\LogicalProgramApps\\lab.LogicalApps\\Palindrome\\Palindrome.csproj",
         "projectName": "Palindrome",
-        "projectPath": "C:\\Users\\placo\\OneDrive\\Documents\\GitHub\\interview-files\\LogicalProgramApps\\lab.LogicalApps\\Palindrome\\Palindrome.csproj",
-        "packagesPath": "C:\\Users\\placo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\placo\\OneDrive\\Documents\\GitHub\\interview-files\\LogicalProgramApps\\lab.LogicalApps\\Palindrome\\obj\\",
+        "projectPath": "C:\\Users\\rasel.ahmmed\\Documents\\GitHub\\interview-files\\LogicalProgramApps\\lab.LogicalApps\\Palindrome\\Palindrome.csproj",
+        "packagesPath": "C:\\Users\\rasel.ahmmed\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rasel.ahmmed\\Documents\\GitHub\\interview-files\\LogicalProgramApps\\lab.LogicalApps\\Palindrome\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\placo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\rasel.ahmmed\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -61,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
