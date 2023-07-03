@@ -1,0 +1,16 @@
+Synchronous
+- It works in single thread
+- Doesn’t help in responsive UI
+- Best for quick and simple tasks
+- It blocks the main thread and UI
+- Cancellation token not supported
+- It throws the exception immediately but async keeps them in Task
+
+Asynchronous
+- Support cancellation tokens
+- To use it we need async/await keyword
+- It is UI friendly and can be multi-threaded
+- Use them for handling multiple requests concurrently
+- Putting await in our code doesn’t block the main thread
+- Use asynchronous programming for lengthy I/O operations
+- By using the await we can wait until the results are computed
