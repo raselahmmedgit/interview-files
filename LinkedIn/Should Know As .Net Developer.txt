@@ -1,0 +1,41 @@
+We should know the below topic as a .NET Developer 
+
+Basics: 
+- C#
+- SQL
+- Dotnet Core
+- ORMs
+
+API Level: 
+- Authentication 
+- Testing 
+- Caching 
+- Logging 
+- Performance 
+- Monitoring 
+- Mappings 
+- Background Jobs
+- Exception Handling 
+- Code First Approach 
+- Dependency Injection 
+
+Libraries For:
+- Logging 
+- Caching 
+- Mappings 
+- Monitoring 
+- Unit testing 
+- Background Jobs 
+- Realtime Communication 
+ 
+Advanced 
+- CI/CD 
+- Microservices 
+- Cloud services 
+- Design Patterns 
+- Design Principles 
+- Clean Architecture 
+
+Additionally: 
+- Firebase 
+- No SQL Database 
